@@ -1,9 +1,9 @@
-def introduce(): 
+def introduceScarlett(): 
     print "Hi! I'm Scarlett. (:"
 
-def introductions():
+def introductionsAshley():
 	print "Hi! I'm Ashley"
 
-def introduce():
+def introduceNathan():
 	print("Hello, I am Nathan Pannell!")
 
