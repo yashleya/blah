@@ -7,3 +7,6 @@ def introductionsAshley():
 def introduceNathan():
 	print("Hello, I am Nathan Pannell!")
 
+def introduceKaveh():
+	print("Hello, I am Kaveh!")
+
