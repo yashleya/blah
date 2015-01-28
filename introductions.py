@@ -7,6 +7,13 @@ def introductionsAshley():
 def introduceNathan():
 	print("Hello, I am Nathan Pannell!")
 
+
 def introduceKaveh():
 	print("Hello, I am Kaveh!")
+
+
+if __name__ == "__main__":
+	introductionsAshley()
+	introduceScarlett()
+	introduceNathan()
 
